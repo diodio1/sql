@@ -12,7 +12,7 @@ declare @val int;
 
 Return @val ;
 END;
-
+khjkgjghjgjfgjfgfgjhghg
 
 Select dbo.Nbtotal_Client() as TotaClient ;
 
